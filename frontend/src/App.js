@@ -13,4 +13,8 @@ const App = () => (
     </Router>
 );
 
+return (
+    <p>My Token = {window.token}</p>
+)
+
 export default App;
