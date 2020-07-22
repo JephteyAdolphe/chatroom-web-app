@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7545cd20-3213-4fd4-8188-f64b92c64e99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config/paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/paths.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/getHttpsConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/getHttpsConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/jest/cssTransform.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/jest/cssTransform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/jest/fileTransform.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/jest/fileTransform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/modules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/paths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/pnpTs.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/pnpTs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/config/webpackDevServer.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/webpackDevServer.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/scripts/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/scripts/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/scripts/start.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/scripts/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/scripts/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
