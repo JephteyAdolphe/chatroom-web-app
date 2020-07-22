@@ -1,5 +1,5 @@
 import flask
-from flask_socketio import SocketIO, send
+#from flask_socketio import SocketIO, send
 
 app = flask.Flask(__name__)
 
