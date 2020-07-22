@@ -2,35 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7545cd20-3213-4fd4-8188-f64b92c64e99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/chatroom-web-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/PyFiles/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/PyFiles/client2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/PyFiles/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/PyFiles/server2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Join.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyFiles/client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyFiles/server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +54,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Backend/PyFiles/server.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JA1999\Desktop\GitHub Code\chatroom-web-app\Backend\chatApp\template" />
       <recent name="C:\Users\JA1999\Desktop\GitHub Code\chatroom-web-app\PyFiles" />
     </key>
   </component>
@@ -153,10 +150,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.client" />
       <item itemvalue="Python.client2" />
-      <item itemvalue="Python.server" />
+      <item itemvalue="Python.client" />
       <item itemvalue="Python.server2" />
+      <item itemvalue="Python.server" />
     </list>
     <recent_temporary>
       <list>
@@ -192,26 +189,26 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="699" y="147" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1595124601941" />
-    <state width="710" height="196" key="GridCell.Tab.0.bottom" timestamp="1595126520590">
+    <state width="707" height="197" key="GridCell.Tab.0.bottom" timestamp="1595456722108">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="710" height="196" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1595126520590" />
-    <state width="710" height="196" key="GridCell.Tab.0.center" timestamp="1595126520590">
+    <state width="707" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
+    <state width="707" height="197" key="GridCell.Tab.0.center" timestamp="1595456722108">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="710" height="196" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1595126520590" />
-    <state width="710" height="196" key="GridCell.Tab.0.left" timestamp="1595126520590">
+    <state width="707" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
+    <state width="707" height="197" key="GridCell.Tab.0.left" timestamp="1595456722108">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="710" height="196" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1595126520590" />
-    <state width="710" height="196" key="GridCell.Tab.0.right" timestamp="1595126520590">
+    <state width="707" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
+    <state width="707" height="197" key="GridCell.Tab.0.right" timestamp="1595456722108">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="710" height="196" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1595126520590" />
-    <state x="482" y="37" key="SettingsEditor" timestamp="1595124536253">
+    <state width="707" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
+    <state x="482" y="37" key="SettingsEditor" timestamp="1595288850741">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="482" y="37" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1595124536253" />
+    <state x="482" y="37" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1595288850741" />
     <state x="906" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595031984100">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
