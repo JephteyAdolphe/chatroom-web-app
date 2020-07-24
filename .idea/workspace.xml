@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7545cd20-3213-4fd4-8188-f64b92c64e99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/config/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/static/react/js/main.f58869aa.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/static/react/js/main.f58869aa.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/static/react/precache-manifest.e868d7d975269cb03931e5e531536222.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/PyFiles/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/PyFiles/client2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/PyFiles/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/PyFiles/server2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/react/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/static/react/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/react/js/main.1794e921.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/react/js/main.1794e921.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/react/precache-manifest.943ae346d99a9aa9c338a6045f638ac8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/react/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/static/react/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,26 +181,26 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="699" y="147" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1595124601941" />
-    <state width="707" height="197" key="GridCell.Tab.0.bottom" timestamp="1595456722108">
+    <state width="707" height="197" key="GridCell.Tab.0.bottom" timestamp="1595460936962">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="707" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
-    <state width="707" height="197" key="GridCell.Tab.0.center" timestamp="1595456722108">
+    <state width="707" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1595460936962" />
+    <state width="707" height="197" key="GridCell.Tab.0.center" timestamp="1595460936962">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="707" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
-    <state width="707" height="197" key="GridCell.Tab.0.left" timestamp="1595456722108">
+    <state width="707" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1595460936962" />
+    <state width="707" height="197" key="GridCell.Tab.0.left" timestamp="1595460936962">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="707" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
-    <state width="707" height="197" key="GridCell.Tab.0.right" timestamp="1595456722108">
+    <state width="707" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1595460936962" />
+    <state width="707" height="197" key="GridCell.Tab.0.right" timestamp="1595460936962">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="707" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1595456722108" />
-    <state x="482" y="37" key="SettingsEditor" timestamp="1595288850741">
+    <state width="707" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1595460936962" />
+    <state x="482" y="37" key="SettingsEditor" timestamp="1595544993529">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="482" y="37" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1595288850741" />
+    <state x="482" y="37" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1595544993529" />
     <state x="906" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595031984100">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
