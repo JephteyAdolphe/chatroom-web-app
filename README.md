@@ -1,2 +1,2 @@
 # chatroom-web-app
-Chat app built using Socket.io, Node.js, and React.js
+Realtime Chat App built using Socket.io, Node.js, and React.js
